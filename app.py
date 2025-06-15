@@ -1,4 +1,4 @@
-
+!pip install rembg
 import streamlit as st
 from rembg import remove
 from PIL import Image
